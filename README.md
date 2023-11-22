@@ -11,6 +11,11 @@
 
 - ⚡ Fun fact **I am a developer, and I don't convert Coffee into Code**
 
+<img
+  src="https://github.com/mahesh-bora/mahesh-bora/blob/main/images/stat.svg"
+  alt="Mahesh WakaTime Activity"
+/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/maheshhh_boraaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maheshhh_boraaa" height="30" width="40" /></a>
