@@ -11,10 +11,8 @@
 
 - ⚡ Fun fact **I am a developer, and I don't convert Coffee into Code**
 
-<img
-  src="https://github.com/mahesh-bora/mahesh-bora/blob/main/images/stat.svg"
-  alt="Mahesh WakaTime Activity"
-/>
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={mahesh-bora}&theme={tokyonight}
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
