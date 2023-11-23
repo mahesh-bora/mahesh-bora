@@ -44,12 +44,19 @@
   </a>
 </p>
 
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mahesh-bora&theme=github-dark-blue&border_radius=10" alt="GitHub Streak" /></a>
-  <a href="https://github-readme-stats.vercel.app/api/wakatime?username=maheshbora)](https://github.com/mahesh-bora/github-readme-stats)"></a>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahesh-bora&layout=donut&theme=transparent&height=100)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mahesh-bora&theme=github-dark-blue&border_radius=10" alt="GitHub Streak" /></a>  
+
+## GitHub Profile Summary Card
+<a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahesh-bora&theme=transparent">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahesh-bora&theme=transparent" alt="Profile Details">
+</a><br/>
 </div>
-
-
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
