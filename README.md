@@ -36,7 +36,7 @@
   <a href="https://instagram.com/mahesh_boraa">
     <img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> 
 </a>
-    <a href="[www.maheshbora.hashnode.dev](https://hashnode.com/@maheshbora)">
+    <a href="https://hashnode.com/@maheshbora>
     <img src= "https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"> 
 </a>
 </div>
