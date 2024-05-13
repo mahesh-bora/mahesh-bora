@@ -16,7 +16,7 @@
   
 🔭 I’m currently working on **App Development**
 
-🌱 I’m currently learning **Go Lang**
+🌱 I’m currently learning **Go**
 
 📫 How to reach me **boraamahesh@gmail.com**
 
