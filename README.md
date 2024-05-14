@@ -55,7 +55,7 @@
 <br>
 <div align=center>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahesh-bora&layout=donut&theme=transparent&height=100)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahesh-bora&layout=donut&theme=transparent&height=100&size_weight=0.5&count_weight=0.5)
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mahesh-bora&theme=github-dark-blue&border_radius=10" alt="GitHub Streak" /></a>  
 
 ## GitHub Profile Summary Card
