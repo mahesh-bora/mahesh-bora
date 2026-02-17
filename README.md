@@ -42,20 +42,12 @@
 </div>
 
 <br>
-  <h1 align="center">Technologies and Frameworks</h1>
-
-<p align="center">
-      <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,cpp,python,java,go,dart,flutter,firebase,materialui,html,css,js,figma,gcp,github,postman,mysql,postgres,mongodb,nodejs,express,docker,linux&perline=8" />
-  </a>
-</p>
 
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahesh-bora&layout=donut&theme=transparent&height=100&size_weight=0.5&count_weight=0.5)
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mahesh-bora&theme=github-dark-blue&border_radius=10" alt="GitHub Streak" /></a>  
 
 ## GitHub Profile Summary Card
